@@ -1,4 +1,4 @@
-# PUA (Plugin Upload App)
+# [PUA (Plugin Upload App)](https://marketplace.visualstudio.com/items?itemName=cmd-studio.pua)
 
 VSCode 插件 - 应用分发工具
 

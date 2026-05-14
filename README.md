@@ -7,7 +7,7 @@ PUA（Plugin Upload App）是一个面向 Flutter 项目的 VS Code 分发扩展
 传统发布流程里，开发者往往需要在命令行、构建脚本、各家应用市场后台和测试分发平台之间来回切换。PUA 把这些碎片化动作重新编排成一个统一入口，让发布动作更短、反馈更及时、错误更容易定位。
 
 ![PUA Overview](https://github.com/JewSaten/PUA/raw/HEAD/images/image1.png)
-![PUA Publish](https://github.com/JewSaten/PUA/raw/HEAD/images/image2.png)
+![PUA Publish](https://github.com/JewSaten/PUA/raw/HEAD/images/image2.jpg)
 ![PUA Versions](https://github.com/JewSaten/PUA/raw/HEAD/images/image3.png)
 
 ## 为什么是 PUA
